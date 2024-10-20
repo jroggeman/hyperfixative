@@ -1,0 +1,8 @@
+# Hugo generated content
+/public/
+/resources/_gen/
+/assets/jsconfig.js
+hugo_stats.json
+
+# Temorary build lock file
+/.hugo_build.lock
