@@ -1,0 +1,4 @@
+baseURL: 'https://hyperfixative.net'
+languageCode: 'en-us'
+title: 'Hyperfixative'
+theme: 'stack'

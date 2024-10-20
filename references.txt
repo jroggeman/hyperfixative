@@ -1,0 +1,8 @@
+Tools
+- https://mtgify.org/#library
+
+Sites
+- https://binario.netlify.app/post/featured-images/
+- https://stack.jimmycai.com
+- https://misha.brukman.net/blog/2019/05/switching-hugo-theme/
+- https://cloudcannon.com/tutorials/hugo-beginner-tutorial
